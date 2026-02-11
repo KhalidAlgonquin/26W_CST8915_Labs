@@ -13,6 +13,14 @@
 
 ---
 
+## Lab 2 Repositories:
+- **order-service:** https://github.com/KhalidAlgonquin/CST8915-lab2-order-service
+- **product-service:** https://github.com/KhalidAlgonquin/CST8915-lab2-product-service
+- **store-front:** https://github.com/KhalidAlgonquin/CST8915-lab2-store-front
+- **rabbitMQ:** https://github.com/KhalidAlgonquin/CST8915-lab2-RabbitMQ
+
+---
+
 ## Reflection Questions
 
 ### What changes did you make to the order-service and product-service to comply with the Configurations and Backing Services factors of the 12-Factor App methodology?
