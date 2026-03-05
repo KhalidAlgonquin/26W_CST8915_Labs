@@ -13,5 +13,5 @@
 ---
 
 ## docker-compose.yaml file (Using the images from my docker hub)
-docker-compose.yaml
+[Open docker-compose.yaml](docker-compose.yaml)
 
