@@ -5,6 +5,7 @@
 **Semester**: Winter 2026  
 
 ---
+The objective of this lab is to deploy the Algonquin Pet Store application to Azure Kubernetes Service (AKS), connect to the cluster using kubectl, test the deployed services, and understand how multiple backend services can be accessed through a single external IP address using different URL paths.
 
 ## Demo Video
 
