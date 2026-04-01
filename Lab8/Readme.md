@@ -51,7 +51,7 @@ MongoDB was changed from a simple temporary deployment to a StatefulSet with per
 
 Changes applied:
 - MongoDB runs with **3 replicas**.
-- A **headless service** was used for stable pod DNS.
+- A **headless service** (clusterIP: None) was used for stable pod DNS.
 - Each replica gets its own **PersistentVolumeClaim (PVC)**.
 - Data is stored in `/data/db`.
 
